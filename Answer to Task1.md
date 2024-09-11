@@ -6,7 +6,7 @@ For protect myself from cyber crimes, I toke some differents kind of measures :
 
 - Never register my bankcard information on my computer or on my phone
 
-- Never open strange links for avoid pishing attacks
+- Never open strange links for avoid phishing attacks
 
 - Activate de two autentifications system when it's possible
 
