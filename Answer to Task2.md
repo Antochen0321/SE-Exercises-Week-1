@@ -30,9 +30,9 @@ Password rules:
 
 Social Networks rules:  
 
-	-Employees must respect confidentiality and not post information on their 		social network’s accounts (codes for opening doors, content of company’s 		information, results of their works...). 
+-Employees must respect confidentiality and not post information on their social network’s accounts (codes for opening doors, content of company’s information, results of their works...). 
 
-	-Employees mustn't mix private life with professional life on internet, on private 	social networks (Facebook, Instagram, Twitter/X...), they must be very careful to 	don’t associate their private activity with company 
+-Employees mustn't mix private life with professional life on internet, on private social networks (Facebook, Instagram, Twitter/X...), they must be very careful to don’t associate their private activity with company 
 
 Complicance : Company will warn employee who doesn’t respect this rule after some warning, company’s security office will come to talk with him and after, if there are no changes in employee behavior, he can license. In the case of information leak, if the company loses a lot of money, it can file a complaint against employees whom that concerns.  
 
